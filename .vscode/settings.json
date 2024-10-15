@@ -59,6 +59,7 @@
   "files.associations": {
     "FunctionTEST.C": "cpp",
     "pointerREFRENCE.C": "cpp",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "iostream": "cpp"
   }
 }
